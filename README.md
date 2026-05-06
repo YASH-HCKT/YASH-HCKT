@@ -18,6 +18,7 @@
 - 🎓 B.Tech CSE student — passionate about building tech with purpose
 - ⚡ I work across **Frontend**, **Backend APIs** & **AI/ML**
 - 🏆 Hackathon winner — **Code@Frost 2025** with InfraSense
+- 🏆 3x Hackathon builder — Code@Frost 2025 ✅ | Mega Hackathon 2026 ✅ | Hacktropica 2.0 2026 ✅
 - 🌍 Building tools for real people — accessibility, productivity & smart cities
 - 🌱 Currently contributing to open source via **GSSoC 2026**
 - 📍 India
