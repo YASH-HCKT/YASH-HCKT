@@ -28,7 +28,8 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🦾 **Empowerable / Empower** | Accessibility platform — maps, SOS, community for people with disabilities | React, Node.js, Maps API |
+| 🦾 **Empowerable** | Accessibility platform v2 — maps, SOS, community for people with disabilities | 🏆 Mega Hackathon 2026 | React, Node.js, Maps API |
+| ♿ **Empower** | Accessibility platform v1 — core disability support features | 🎯 Hacktropica 2.0 2026 | React, Node.js |
 | 🏙️ **InfraSense** | City infrastructure monitoring — graphs, reports, damage alerts *(🏆 Code@Frost 2025 Winner)* | JS, Python, Maps, Charts |
 | ⏱️ **Routine Manager** | Productivity web app — Pomodoro, notes, to-do boxes | HTML, CSS, JS |
 
