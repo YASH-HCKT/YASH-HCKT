@@ -6,9 +6,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yashprabhakar&label=Profile+Views&color=6C63FF&style=flat" alt="profile views" />
-  <a href="https://linkedin.com/in/yashprabhakar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yash-prabhakar-67475b347/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GSSoC-2025-orange?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-brightgreen?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/Open%20Source-brightgreen?style=flat&logo=github"/>
 </p>
 
 ---
@@ -29,7 +29,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | 🦾 **Empowerable / Empower** | Accessibility platform — maps, SOS, community for people with disabilities | React, Node.js, Maps API |
-| 🏙️ **InfraSync** | City infrastructure monitoring — graphs, reports, damage alerts *(🏆 Code@Frost 2025 Winner)* | JS, Python, Maps, Charts |
+| 🏙️ **InfraSense** | City infrastructure monitoring — graphs, reports, damage alerts *(🏆 Code@Frost 2025 Winner)* | JS, Python, Maps, Charts |
 | ⏱️ **Routine Manager** | Productivity web app — Pomodoro, notes, to-do boxes | HTML, CSS, JS |
 
 ---
