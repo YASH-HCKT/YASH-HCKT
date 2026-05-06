@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yashprabhakar&label=Profile+Views&color=6C63FF&style=flat" alt="profile views" />
   <a href="https://www.linkedin.com/in/yash-prabhakar-67475b347/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/GSSoC-2025-orange?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSSoC-2026-orange?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Open%20Source-brightgreen?style=flat&logo=github"/>
 </p>
 
@@ -17,9 +17,9 @@
 
 - 🎓 B.Tech CSE student — passionate about building tech with purpose
 - ⚡ I work across **Frontend**, **Backend APIs** & **AI/ML**
-- 🏆 Hackathon winner — **Code@Frost 2025** with InfraSync
+- 🏆 Hackathon winner — **Code@Frost 2025** with InfraSense
 - 🌍 Building tools for real people — accessibility, productivity & smart cities
-- 🌱 Currently contributing to open source via **GSSoC 2025**
+- 🌱 Currently contributing to open source via **GSSoC 2026**
 - 📍 India
 
 ---
